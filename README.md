@@ -79,6 +79,13 @@ Design of the framework is Cucumber Behavior Driven Development framework.
 
 You can run the application based on the instructions that provided in the assignment readme file.
 
+### Report :
+
+Under Target folder there are 2 types of report;
+
+1-cucumber-report.html
+2-cucumber-html-reports for pretty report
+
 
 
 
